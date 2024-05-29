@@ -5,12 +5,14 @@ Here you'll find a collection of my projects and contributions. I develop games 
 ## Languages I Use the Most
 
 <div align="left">
+  1.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" style="pointer-events: none;"/>
+  2.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" style="pointer-events: none;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" style="pointer-events: none;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" style="pointer-events: none;"/>
+  3.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" style="pointer-events: none;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40" alt="Lua" style="pointer-events: none;"/>
+  4.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C++" style="pointer-events: none;"/>
 </div>
 
 ## Contacts
