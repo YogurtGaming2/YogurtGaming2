@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-Here you'll find a collection of my projects and contributions. I develop games and contribute to projects. I'm passionate about software development and enjoy working with a variety of programming languages.
+I develop independent games, create plugins for different tools, programs, scripts and contribute to projects. I'm passionate about software development, technology, game development and enjoy working with a variety of programming languages, tools and programs and exploring new ones!
 
 ## Languages I Use the Most
 
