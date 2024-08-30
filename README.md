@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-I develop independent games, create plugins for different tools, programs, scripts and contribute to projects. I'm passionate about software development, technology, game development and enjoy working with a variety of programming languages, tools and programs and exploring new ones!
+I like developing games, creating plugins for different tools, programs, scripts and contribute to all-sorts of projects. I'm love software development, technology, game development and enjoy working with a variety of programming languages, tools and programs and exploring more.
 
 ## Languages I Use the Most
 
