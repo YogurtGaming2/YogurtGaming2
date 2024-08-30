@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-I like developing games, creating plugins for different tools, programs, scripts and contribute to all-sorts of projects. I'm love software development, technology, game development and enjoy working with a variety of programming languages, tools and programs and exploring more.
+I like developing games, creating plugins for different tools, programs, scripts and contribute to all sorts of projects. I love software development, technology, game development and enjoy working with a variety of programming languages, tools and programs and exploring more.
 
 ## Languages I Use the Most
 
