@@ -27,7 +27,8 @@ I'm interested in technologies such as: .NET, C#, WPF & AvaloniaUI, Python, C/C+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="40" />
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YogurtGaming2&theme=radical)
+
+[![ ](https://streak-stats.demolab.com?user=YogurtGaming2&theme=dark&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Contacts
 <p>Discord: @yogurtgaming</p>
